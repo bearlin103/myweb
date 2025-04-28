@@ -97,7 +97,7 @@ nav li a {
 }
 
 nav li a:hover {
-    border-bottom-color: #ff1e97;
+    border-bottom-color: #fac5ed;
 }
 
 header {
@@ -213,7 +213,8 @@ header {
 }
 
 .post a:hover {
-    background-color: #cfffb2
+    background-color: #dbd3ed
+
 }
 
 
